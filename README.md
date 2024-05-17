@@ -18,7 +18,7 @@ Mini photo editor
 + Rectangles, Circles...
 + Filters (blur, inversion, brightness)
 + Color selector
-
+#### Doesnt support smallers screens
 -----
 
 ### Preview
